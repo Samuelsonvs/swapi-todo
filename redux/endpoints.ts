@@ -1,0 +1,1 @@
+export const NAME_API = "https://swapi.dev/api/people/?page=5"
